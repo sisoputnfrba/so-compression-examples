@@ -1,0 +1,8 @@
+== Compilación ==
+
+Como parametros de linkeo se debe colocar:
+-lsnappy
+-llzo2
+
+
+
